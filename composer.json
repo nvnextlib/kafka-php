@@ -10,7 +10,7 @@
     "license": "BSD-3-Clause",
     "config": {
         "platform": {
-            "php": "7.1.12"
+            "php": "8.0"
         },
         "preferred-install": "dist",
         "sort-packages": true
